@@ -1,5 +1,5 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "Automated Testing",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
